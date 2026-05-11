@@ -26,9 +26,3 @@
 
 ### 📫 Reach me
 [![Email](https://img.shields.io/badge/Email-khitam38.24%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khitam38.24@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-
----
-
-### 📊 GitHub Stats
-![Khitam's Stats](https://github-readme-stats.vercel.app/api?username=KhitamSakijha&show_icons=true&theme=radical&hide_border=true)
